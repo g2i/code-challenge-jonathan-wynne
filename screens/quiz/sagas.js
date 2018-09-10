@@ -21,6 +21,7 @@ export default (api) => {
   }
 
   return {
+    watchers,
     fetchQuizSaga,
   };
 };

@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import quiz from '../routes/quiz/duck';
+import quiz from '../screens/quiz/duck';
 
 const reducers = {
   quiz,
